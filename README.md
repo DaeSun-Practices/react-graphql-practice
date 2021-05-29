@@ -1,1 +1,1 @@
-# react-graphql
+# react-graphql-practice
